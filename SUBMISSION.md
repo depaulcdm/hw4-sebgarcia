@@ -1,16 +1,6 @@
 # Instructions
 Sebastian Garcia
 
-**TODO:** Add your screen captures to a new directory called [images](images).
-
-**HINT:** Embed your screen captures as requested in the sections below. You can embed the image using the following syntax:
-
-```
-![Screen Capture #1](images/my-screen-capture.jpg)
-```
-
-The first argument is the Alt-text for the image. The second argument is the path to the image. Make sure your images are readable and that you save them in a JPG or PNG format.
-
 # Ant+Ivy [40 pts]
 - [5 pts] A screen capture showing the version of Ant that you installed and its install directory.
 ![AntVersion](images/antVersion.png)
@@ -31,10 +21,14 @@ The first argument is the Alt-text for the image. The second argument is the pat
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Maven build.
 ![Maven JAR execution](images/mvn-jar.png)
 - [10 pts] Links to the complete and correct [hello-world/pom.xml](hello-world/pom.xml) file.
--  => [hello-world/build.xml](hello-world/pom.xml)
+-  => [hello-world/pom.xml](hello-world/pom.xml)
 
 # Gradle [30 pts]
 - [5 pts]A screen capture showing the version of Gradle that you installed and its install directory.
+![Gradle Version](images/gradle-version.png)
 - [10 pts] A screen capture showing a successful build using the Gradle script.
+![Gradle Build](images/gradle-build.png)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Gradle build.
+![Gradle JAR](images/gradle-jar.png)
 - [10 pts] Links to the complete and correct [hello-world/build.gradle](hello-world/build.gradle) file.
+-  => [hello-world/build.gradle](hello-world/build.gradle)
