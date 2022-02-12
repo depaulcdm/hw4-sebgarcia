@@ -25,9 +25,13 @@ The first argument is the Alt-text for the image. The second argument is the pat
 
 # Maven [30 pts]
 - [5 pts] A screen capture showing the version of Maven that you installed and its install directory.
+![Maven Version](images/mvn-version.png)
 - [10 pts] A screen capture showing a successful build using the Maven script.
+![Maven Build](images/mvn-build.png)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Maven build.
+![Maven JAR execution](images/mvn-jar.png)
 - [10 pts] Links to the complete and correct [hello-world/pom.xml](hello-world/pom.xml) file.
+-  => [hello-world/build.xml](hello-world/pom.xml)
 
 # Gradle [30 pts]
 - [5 pts]A screen capture showing the version of Gradle that you installed and its install directory.
